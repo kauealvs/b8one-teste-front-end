@@ -1,6 +1,5 @@
 import { React, useState, useEffect } from "react";
 import { getProducts } from "../../service";
-
 import "./index.css";
 import check from "../../assets/img/Vector.png";
 import wishlistAdd from "../../assets/img/wishlist-add.png";
